@@ -1,0 +1,21 @@
+Wear a watch
+
+Use each step as a way of saving time later
+
+you want your work to help you in the next steps
+
+nested objects:  use intendations
+
+I:  arr=wall
+      arr=(rows)
+        int=(brick widths)
+
+O: int = min bricks cut
+
+C: positive ints
+
+E: with array objects, always check: empty array and length 1
+Now let's explore the problem and see if we can find more edge cases
+
+Time box brainstorming
+

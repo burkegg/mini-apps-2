@@ -1,0 +1,17 @@
+mini app 1
+
+json server docs
+
+the part htat shows you how to write your own serer using json-server.
+
+That's necess. for your own custom endpoint
+
+you query the database form teh endpoint
+
+some queries will work without any setup.
+
+try querying a json-server before writing your own.
+
+tricky part:  also need the length of data for pagination without returning all of the data to your client.
+
+that's why you write your own server, have the server do a query to the server, then it returns data, you return the length so your client knnows how many pages to show.
